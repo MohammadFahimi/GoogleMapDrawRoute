@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleMapRoute</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--put your api key here and don't forget to enable direction api on google developer console-->
+    <string name="google_maps_android_key">YOUR_KEY_HERE</string>
+    <string name="google_maps_webservice_key">YOUR_KEY_HERE</string>
+
+</resources>
